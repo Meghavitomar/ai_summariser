@@ -29,5 +29,5 @@ A simple web application that uses AI to summarize articles. Input a URL, and in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/adrianhajdin/project_ai_summarizer.git
+   git clone https://github.com/Meghavitomar/ai_summariser/tree/main
    cd project_ai_summarizer
